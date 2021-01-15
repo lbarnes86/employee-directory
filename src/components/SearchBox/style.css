@@ -1,0 +1,17 @@
+form.search {
+    margin-bottom: 10px;
+    overflow: auto;
+  }
+  /* .btn .btn-success {
+    color:  #e67409;
+    background-color:  #e67409;
+    border-color:  #e67409;
+  } */
+  form.search button[type="submit"] {
+    float: left;
+    margin-top: 10px;
+    background-color:rgb(8, 85, 129);
+    border-color: aliceblue;
+    color:  #e67409;
+    font-weight: bolder;
+  }
