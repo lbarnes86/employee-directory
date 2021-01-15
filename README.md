@@ -48,4 +48,4 @@ Created with React, this Empyoyee Directory allows users to search for an employ
 
 ## License
 
-Copyright© SMU BOOTCAMP 2020
+Copyright© SMU BOOTCAMP 2021
