@@ -48,4 +48,7 @@ Created with React, this Empyoyee Directory allows users to search for an employ
 
 ## License
 
-Copyright© SMU BOOTCAMP 2021
+![License](https://img.shields.io/badge/license-MIT-green")
+
+
+Copyright© 2021 [Lloyd Barnes](https://lbarnes86.github.io/react-portfolio/)
